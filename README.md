@@ -1,2 +1,2 @@
 # PythonSlotMachine
-Practice project built using python.
+A python slot machine that was built as a practice project.
